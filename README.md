@@ -26,5 +26,6 @@ Edit > Notebook settings or Runtime>Change runtime type and select GPU as Hardwa
 !pip3 install tensorflow==1.8
 !pip3 install keras
 ```
-
+## Code Snapshots
+img src="https://github.com/Vishvambar-Panth/Car-Damage-Detection/blob/main/car.png" width="400" height="500">
 
